@@ -1,0 +1,18 @@
+.card{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 3px black;
+    height: max-content;
+    background-color: white;
+
+}
+
+.sociallink{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+
+}
